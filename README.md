@@ -943,7 +943,7 @@
                     </svg>
                     <a href="mailto:m48511032@gmail.com">m48511032@gmail.com</a>
                 </div>
-                <p class="footer-copyright">© تمامی حقوق محفوظ است</p>
+                <p class="footer-copyright">© کلیه حقوق این سایت متعلق به محمد جواد اسماعیلی می باشد</p>
             </div>
         </div>
     </footer>
